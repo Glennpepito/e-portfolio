@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.page1 {
+  position: initial;
+}
+
+/* Navbar Styling */
+.navbar {
+  background-color: #000; /* Corrected the black color code */
+  color: white;
+  margin-left: 342px;
+}
